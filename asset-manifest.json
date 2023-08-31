@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PANDA-NEWS/static/css/main.abd64e84.css",
+    "main.js": "/PANDA-NEWS/static/js/main.9e925ee8.js",
+    "static/js/787.4c026eef.chunk.js": "/PANDA-NEWS/static/js/787.4c026eef.chunk.js",
+    "static/media/Loading.gif": "/PANDA-NEWS/static/media/Loading.9ca0810199063639c646.gif",
+    "index.html": "/PANDA-NEWS/index.html",
+    "main.abd64e84.css.map": "/PANDA-NEWS/static/css/main.abd64e84.css.map",
+    "main.9e925ee8.js.map": "/PANDA-NEWS/static/js/main.9e925ee8.js.map",
+    "787.4c026eef.chunk.js.map": "/PANDA-NEWS/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.9e925ee8.js"
+  ]
+}
